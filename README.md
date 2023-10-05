@@ -1,15 +1,16 @@
 # CS50P 2023 --> Introduction to Programming with Python 2023 ![Stars](https://img.shields.io/github/stars/sana-zarei/CS50P?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/sana-zarei/CS50P?label=Watchers)
+
 [![Certificate](./static/CS50P-A4.png)](#?size=a4)
 ### These are my solutions for CS50P Introduction to Programming with Python 2023.
-### Final Project : [The Ultimate Game Collection: A Trio of Classics](#)
+### Final Project: [The Ultimate Game Collection: A Trio of Classics](#)
 <br/>
-warning & Disclaimer :
-The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
+Warning & Disclaimer:
+The following codes are for educational purposes only and are not intended to be used/submitted as your own solutions.
 
 Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
 
 ## Concerns
-I like to share my progress which also helps motivate me to finish the course faster. Although if any directors  of the course want me to take this down I will gladly do so, just shoot me a message via <sanazarei79@gmail.com>
+I like to share my progress, which also helps motivate me to finish the course faster. However, if any directors of the course want me to take this down, I will gladly do so. Just shoot me a message via <sanazarei79@gmail.com>
 <br/>
 
 ## Table of Contents
