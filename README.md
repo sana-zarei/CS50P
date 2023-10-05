@@ -66,12 +66,12 @@
 - [CS50 Shirtificate](/Week%8/Shirtificate/)
 
 ---
-## Warning & Disclaimer
+:warning: **Warning & Disclaimer**:
 The following codes are for educational purposes only and are not intended to be used/submitted as your own solutions.
 
-Cheating violates
-the [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
+:no_entry_sign: **Cheating Violates**:
+The [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
 
-Concerns
-I like to share my progress, which also helps motivate me to finish the course faster. However, if any directors of the course want me to take this down, I will gladly do so. Just shoot me a message via <sanazarei79@gmail.com>
+:email: **Concerns**:
+I like to share my progress, which also helps motivate me to finish the course faster. However, if any directors of the course want me to take this down, I will gladly do so. Just shoot me a message via <sanazarei79@gmail.com>.
 <br/>
