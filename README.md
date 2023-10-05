@@ -1,5 +1,5 @@
 # CS50P 2023 --> Introduction to Programming with Python 2023 ![Stars](https://img.shields.io/github/stars/sana-zarei/CS50P?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/sana-zarei/CS50P?label=Watchers)
-[![Certificate](./static/CS50P-A44.png)](#?size=a4)
+[![Certificate](./static/CS50P-A4.png)](#?size=a4)
 ### These are my solutions for CS50P Introduction to Programming with Python 2023.
 ### Final Project : [The Ultimate Game Collection: A Trio of Classics](#)
 <br/>
